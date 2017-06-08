@@ -1,5 +1,5 @@
-# scatterplot-graph
+# Scatterplot graph
 
 Scatterplot Graph for freecodecamp data visualisation challenges
 
-absolitudo.github.io/scatterplot-graph
+https://absolitudo.github.io/scatterplot-graph/
